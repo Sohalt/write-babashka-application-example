@@ -2,11 +2,11 @@
   "nodes": {
     "flake-utils": {
       "locked": {
-        "lastModified": 1649676176,
-        "narHash": "sha256-OWKJratjt2RW151VUlJPRALb7OU2S5s+f0vLj4o1bHM=",
+        "lastModified": 1659877975,
+        "narHash": "sha256-zllb8aq3YO3h8B/U0/J1WBgAL8EX5yWf5pMj3G0NAmc=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "a4b154ebbdc88c8498a5c7b01589addc9e9cb678",
+        "rev": "c0e246b9b83f637f4681389ecabcb2681b4f3af0",
         "type": "github"
       },
       "original": {
@@ -17,10 +17,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1649158388,
-        "narHash": "sha256-Nqb6RHVp0R26Gxu8/YkcHMhFjK4LpNkarksYe0HGdKA=",
-        "path": "/nix/store/dgymga44v4900kygpm476fwvm87ym6as-source",
-        "rev": "44d0ecdf2739a94d7e84bc91f8da37769a43768a",
+        "lastModified": 0,
+        "narHash": "sha256-TUbwbzCbprtWB9EtXPM52cWuKETuCV3H+cMXjLRbwTw=",
+        "path": "/nix/store/bqarw0dz2a93l4v659n7p1g1xsb3zwzg-source",
         "type": "path"
       },
       "original": {
@@ -37,11 +36,11 @@
     },
     "wbba": {
       "locked": {
-        "lastModified": 1650554151,
-        "narHash": "sha256-a4bf1yJ8ePhK76HCZXgDiSHLhQLpSYcbukZZUS2/JzQ=",
+        "lastModified": 1660147714,
+        "narHash": "sha256-20SgK+RjrH6aqOWSFa372ITBufPEGbMeBOFjsClYNT8=",
         "owner": "sohalt",
         "repo": "write-babashka-application",
-        "rev": "d6e72767adb9ae45b67af5be2c5ee599d52bcfdf",
+        "rev": "ad23941c9107b753bfe3f2c69390a424643f78ce",
         "type": "github"
       },
       "original": {
